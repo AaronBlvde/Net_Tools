@@ -28,4 +28,4 @@ for i in range(500):
     thread.start()
 
 
-os.system('/DDoS.py')
+os.system('DDoS.py')
